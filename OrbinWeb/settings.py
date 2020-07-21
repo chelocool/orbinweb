@@ -25,7 +25,7 @@ SECRET_KEY = '9a_&x8fzb%fex10l9hsc*(9+mh9@6ib@9rpc5&j9*2e&hv98b&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.orbin.com.ar']
 
 
 # Application definition
